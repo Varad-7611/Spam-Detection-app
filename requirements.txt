@@ -1,4 +1,0 @@
-streamline
-scikit-learn
-numpy
-scipy
