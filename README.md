@@ -1,65 +1,79 @@
-📧 Spam Email Detection using Machine Learning
+# 📧 Spam Email Detection using Machine Learning
 
-This project is a Machine Learning-based Spam Detection System that classifies emails as Spam or Not Spam based on their content. The model is deployed on a Streamlit web application, allowing users to interactively test and analyze email messages in real time.
+This project is a **Machine Learning-based Spam Detection System** that classifies emails as **Spam or Not Spam** based on their content.  
+The model is deployed on a **Streamlit web application**, allowing users to interactively test and analyze email messages in real time.
 
-🔍 Features
+---
 
-✅ Email Classification: Detects whether an input email is spam or legitimate.
+## 🔍 Features
 
-📝 Text Preprocessing: Includes cleaning, tokenization, stopword removal, and vectorization.
+- ✅ **Email Classification**  
+  Detects whether an input email is spam or legitimate.
 
-🧠 Machine Learning Model: Trained using Multinomial Naive Bayes for high accuracy.
+- 📝 **Text Preprocessing**  
+  Includes cleaning, tokenization, stopword removal, and vectorization.
 
-🌐 Deployed via Streamlit: User-friendly web interface to test emails instantly.
+- 🧠 **Machine Learning Model**  
+  Trained using **Multinomial Naive Bayes** for high accuracy.
 
-📊 Live Results: Get instant classification results after submitting text.
+- 🌐 **Deployed via Streamlit**  
+  User-friendly web interface to test emails instantly.
 
-🌐 Live Demo
+- 📊 **Live Results**  
+  Get instant classification results after submitting text.
 
-🚀 Try the app here: Streamlit App Link
+---
 
-⚠️ Replace the above link with your actual Streamlit deployment URL.
+## 🌐 Live Demo
 
+🚀 Try the app here: [Streamlit App Link](https://your-streamlit-app-link.streamlit.app)
 
-💡 Use Cases
+> ⚠️ Replace the above link with your actual Streamlit deployment URL.
 
-• Email providers to filter spam messages
+---
 
-• Personal projects to learn about NLP and ML pipelines
+## 💡 Use Cases
 
-• Cybersecurity tools for identifying phishing/spam attempts
+- 📩 Email providers to **filter spam messages**
+- 🧠 Personal projects to **learn about NLP and ML pipelines**
+- 🛡️ Cybersecurity tools for **identifying phishing/spam attempts**
 
+---
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
-• Python
+- **Python**
+- **Pandas & NumPy**
+- **Scikit-learn**
+- **Natural Language Processing (NLP)**
+- **Streamlit** (for frontend deployment)
 
-• Pandas & NumPy
+---
 
-• Scikit-learn
+## 📦 Project Workflow
 
-• Natural Language Processing (NLP)
+1. **Data Cleaning & Preprocessing**
+2. **Feature Extraction using TF-IDF Vectorizer**
+3. **Model Training using Naive Bayes Classifier**
+4. **Deployment via Streamlit Web App**
 
-• Streamlit for deployment
+---
 
+## 📌 Key Benefits
 
-📦 Project Workflow
+- 🚀 Fast and lightweight spam classification  
+- 🖱️ Easy to use via an interactive web UI  
+- ⚡ Real-time results powered by ML  
+- 🧩 Open-source and customizable for further improvements
 
-• Data Cleaning & Preprocessing
+---
 
-• Feature Extraction using TF-IDF Vectorizer
+## 📝 License
 
-• Model Training using Naive Bayes Classifier
+This project is licensed under the [MIT License](LICENSE).
 
-• Streamlit Web App Interface
+---
 
+## 🙌 Acknowledgments
 
-📌 Key Benefits
-
-• Fast and lightweight spam classification
-
-• Easy to use via an interactive web UI
-
-• Real-time results powered by ML
-
-• Open-source and customizable
+- Thanks to the open-source community and [Streamlit](https://streamlit.io/) for making deployment easy and intuitive.
