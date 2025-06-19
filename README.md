@@ -26,9 +26,7 @@ The model is deployed on a **Streamlit web application**, allowing users to inte
 
 ## 🌐 Live Demo
 
-🚀 Try the app here: [Streamlit App Link](https://your-streamlit-app-link.streamlit.app)
-
-> ⚠️ Replace the above link with your actual Streamlit deployment URL.
+🚀 Try the app here: [Spam Detection Streamlit App](https://varad-7611taboverviewfrom2025-01-01to2025-01-09-6ynrrb47csx2m9.streamlit.app/)
 
 ---
 
